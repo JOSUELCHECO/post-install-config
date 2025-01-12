@@ -44,7 +44,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- If you need help installing osTicket, please see my tutorial [here](https://github.com/josuelcheco/osticket-prereqs)
 
 <p align="center">
-<img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img src="https://i.imgur.com/LQbq7hC.png" height="80%" width="80%" alt="Azure Free Account"/>	
 
 
 <h3>Step 2: Configure Roles </h3>
@@ -57,7 +57,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - Select Add Role
 	
 <p align="center">
-<img src="https://i.imgur.com/9tiOON2.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CfCzRRk.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/6QtRZp1.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/0hGfD6B.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -70,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 <p align="center">
-<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/mninrKc.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Eyw98MO.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -83,7 +83,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - Select Create Team
 	
 <p align="center">
-<img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4IieS80.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/NlFFXWN.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/fbiayzD.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 5: Allow Anyone to Create Tickets</h3>
@@ -93,7 +93,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 		- Registration Required: Require registration and login to create tickets 
 		
 <p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/PyyCpBT.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 
 <h3>Step 6: Configure Agents</h3>
@@ -108,7 +108,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 		- Select set
 		
 <p align="center">
-<img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/14oJN1y.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/I61EJyK.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 - Select the Access tab 
