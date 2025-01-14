@@ -57,7 +57,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - Select Add Role
 	
 <p align="center">
-<img src="https://i.imgur.com/6QtRZp1.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/0hGfD6B.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/IGcD80T.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/0hGfD6B.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -70,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 
 
 <p align="center">
-<img src="https://i.imgur.com/mninrKc.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Eyw98MO.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/TgHNDDL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Eyw98MO.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -144,7 +144,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/vUsKKaR.png" height="80%" width="80%" alt="Azure Free Account"/>		
 	
 - Select the Users tab to create a user
 	- Email Address: Karen(@)osticket.com
@@ -173,7 +173,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/1xTwBRn.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 	- Name: SEV-B
