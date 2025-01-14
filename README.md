@@ -44,7 +44,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 	- If you need help installing osTicket, please see my tutorial [here](https://github.com/josuelcheco/osticket-prereqs)
 
 <p align="center">
-<img src="https://i.imgur.com/LQbq7hC.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img src="https://i.imgur.com/n6bO91S.png" height="80%" width="80%" alt="Azure Free Account"/>	
 
 
 <h3>Step 2: Configure Roles </h3>
